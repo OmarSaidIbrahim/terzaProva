@@ -1,0 +1,3 @@
+# terzaProva
+
+Test lottie files.
